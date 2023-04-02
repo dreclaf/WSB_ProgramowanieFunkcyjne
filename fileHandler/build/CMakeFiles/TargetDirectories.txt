@@ -1,0 +1,10 @@
+/home/dawid/programowanie_funkcyjne/fileHandler/build/CMakeFiles/edit_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/CMakeFiles/rebuild_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/CMakeFiles/edit_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/CMakeFiles/rebuild_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/file-handler/CMakeFiles/FileHandler.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/file-handler/CMakeFiles/edit_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/file-handler/CMakeFiles/rebuild_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/application/CMakeFiles/Application.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/application/CMakeFiles/edit_cache.dir
+/home/dawid/programowanie_funkcyjne/fileHandler/build/src/application/CMakeFiles/rebuild_cache.dir

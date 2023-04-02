@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Application.dir/main.cc.o -o Application  -Wl,-rpath,/home/dawid/programowanie_funkcyjne/fileHandler/build/src/file-handler ../file-handler/libFileHandler.so 

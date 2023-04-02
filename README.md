@@ -1,5 +1,6 @@
 # Projekt w C++
 W folderze fileHandler znajduje sie kod z pierwszej styczności z CMAKE.
+
 W folderze containerExample znajduje się kod naszego projektu nad którym będziemy pracować.
 
 # Jak pracujemy:

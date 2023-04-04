@@ -53,18 +53,17 @@ std::string AccessPeriod::getEndDate()
 
 struct tm AccessPeriod::stringToDateParser(std::string p_dateToParse)
 {
-	const char* letsTry = p_dateToParse.c_str();
-
+	const char* dateToParse = p_dateToParse.c_str();
+	std::string s_day, s_month, s_year;
 	int day, month, year;
-	for (int i = 0; i < 8; i++)
-	{
-		if (i == 0 || i == 1)
-			day = (int)letsTry[i];
-		if (i == 3 || i == 4)
-			day = (int)letsTry[i];
-		if (i == 6 || i == 7)
-			day = (int)letsTry[i];
-	}
+
+	s_day = dateToParse[0] + dateToParse[1];
+	s_month = dateToParse[3] + dateToParse[4];
+	s_month = dateToParse[6] + dateToParse[7];
+
+	day = stoi(s_day);
+	month = stoi(s_month);
+	year = stoi(s_year);
 
 	// DD/MM/RRRR
 	struct tm dateParser = { dateParser.tm_year = year, dateParser.tm_mon = month, dateParser.tm_mday = day};
